@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import UICheckbox
+import UICheckbox_Swift
 
 class ViewController: UIViewController {
 

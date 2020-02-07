@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_UICheckbox_TestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_UICheckbox_TestsVersionString[];
+FOUNDATION_EXPORT double UICheckbox_SwiftVersionNumber;
+FOUNDATION_EXPORT const unsigned char UICheckbox_SwiftVersionString[];
 

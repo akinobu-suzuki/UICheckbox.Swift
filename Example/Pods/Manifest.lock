@@ -1,16 +1,16 @@
 PODS:
-  - UICheckbox (0.1.0)
+  - UICheckbox.Swift (1.0.1)
 
 DEPENDENCIES:
-  - UICheckbox (from `../`)
+  - UICheckbox.Swift (from `../`)
 
 EXTERNAL SOURCES:
-  UICheckbox:
-    :path: ../
+  UICheckbox.Swift:
+    :path: "../"
 
 SPEC CHECKSUMS:
-  UICheckbox: 6e0dce6510f2137cda6d51c0785efba012e529a7
+  UICheckbox.Swift: 14e1aae6fc3534c5f119342e5688568e5ffdd7ef
 
-PODFILE CHECKSUM: ac3fe884f97e2dfbbafb38869c5e78731cfb3064
+PODFILE CHECKSUM: 117fd3549c04ff67c7323c8dacdfe0372cb4413d
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.8.4

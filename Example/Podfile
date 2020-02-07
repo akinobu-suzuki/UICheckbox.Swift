@@ -1,11 +1,10 @@
 use_frameworks!
+platform :ios, '10.0'
 
 target 'UICheckbox_Example' do
-  pod 'UICheckbox', :path => '../'
+  pod 'UICheckbox.Swift', :path => '../'
 
   target 'UICheckbox_Tests' do
     inherit! :search_paths
-
-    
   end
 end
